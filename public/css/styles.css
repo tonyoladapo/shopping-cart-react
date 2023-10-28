@@ -1,0 +1,26 @@
+.line{
+	height: 0.2rem;
+	width: 3rem;
+	background-color: orange;
+	text-align: center;
+	border-radius: 5px;
+}
+.cart{
+	background-color: black;
+	border-color: none;
+	width: 90%;
+}
+.but{
+	background-color: black;
+	float: right;
+}
+
+.button{
+	height:35px;
+	width: 35px;
+	margin-right: 7px;
+	border-radius: 100%;
+	background-color: grey;
+	color: black;
+	text-align: center;
+}
